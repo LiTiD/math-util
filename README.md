@@ -7,7 +7,7 @@
 * (TBA...)
 
 #### Connect me via:
-[```__My facebook__```](https://facebook.com/NLTTTDN.12760015/)  
+[```My facebook```](https://facebook.com/NLTTTDN.12760015/)  
 [__My email__](mailto: full9saoxec@gmail.com)
 
 © __2021 LTD__
