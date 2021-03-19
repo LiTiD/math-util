@@ -8,6 +8,6 @@
 
 #### Connect me via:
 [```My facebook```](https://facebook.com/NLTTTDN.12760015/)  
-[*~My email~*](mailto: full9saoxec@gmail.com)
+[*_My email_*](mailto: full9saoxec@gmail.com)
 
-© 2021 LTD
+© _2021 LTD_
