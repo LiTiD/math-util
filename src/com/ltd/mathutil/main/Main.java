@@ -22,13 +22,13 @@ public class Main {
         long expected = 120;
         long actual = MathUtility.getFactorial(n);
         
-        System.out.println("5!\nexpected : " + expected + ";\nactual : " + actual);
+        System.out.println("5! expected : " + expected + "; actual : " + actual + ";");
         
         n = 0;
         expected = 1;
         actual = MathUtility.getFactorial(n);
         
-        System.out.println("5!\nexpected : " + expected + ";\nactual : " + actual);
+        System.out.println("5! expected : " + expected + "; actual : " + actual + ";");
     }
     
 }
